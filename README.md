@@ -29,18 +29,3 @@ This is a simple command-line calculator built using C++ that performs various a
     - Enter the corresponding symbol for the operation you want to perform.
     - Enter the required numbers for the operation.
 5. After performing a calculation, you will have the option to either perform more calculations or exit the program.
-
-## Example Usage
-
-Press + for Addition
-Press - for Subtraction
-Press * for Multiplication
-Press / for Division
-Press % for Modulus
-Press ^ for Power
-Press ! for Factorial
-
-Enter Choice: +
-Enter Numbers to Add: 3
-Please Enter 3 Numbers One by One: 5 10 15
-Sum is: 30
